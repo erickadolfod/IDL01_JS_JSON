@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "categoria": "Frutas tropicales",
+        "nombre": "Fresa",
+        "precio": 8.5,
+        "stock": 35
+    },
+    {
+        "id": 2,
+        "categoria": "Frutas tropicales",
+        "nombre": "pi\u00f1as",
+        "precio": "10",
+        "stock": "23"
+    },
+    {
+        "id": 3,
+        "categoria": "Frutas dulce",
+        "nombre": "fresa",
+        "precio": 12,
+        "stock": 12
+    }
+]
